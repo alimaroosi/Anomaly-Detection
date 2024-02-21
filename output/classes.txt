@@ -1,0 +1,3 @@
+0 Dava
+1 Dozdi
+2 Normal
